@@ -1,0 +1,19 @@
+body{
+background-color: #f5f5f5;
+}
+#footer{
+padding: 10px;
+background-color: peachpuff;
+text-align: center;
+}
+#topo{
+background-color: darkgrey;
+height: 100px;
+}
+#menu {
+padding: 10px;
+background-color: aquamarine;
+}
+#conteudo{
+background-color: white;
+}
